@@ -50,7 +50,7 @@ import { NodesService } from './api/nodes.service';
   ],
   exports:      [],
   providers: [
-    NodesService ],
+    NodeService ],
   bootstrap: [ AppComponent ]
 })
 export class AppModule { 
