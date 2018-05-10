@@ -17,3 +17,7 @@ http://localhost:8080/
 ./mvnw spring-boot:run
 
 Change default port value in application.properties
+
+Angular 4 app can be seen by running ng serve.
+
+pom.xml is implemented, but in development is easier to use this way till d3 is implemented (swagger settings).
